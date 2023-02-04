@@ -48,6 +48,7 @@ Lo mismo pero con arrow function
 let fA = () => console.log('sucede algo');
 
 ```
+Función de Orden Superior con arrow function
 ```
 operation((a,b)=>a*b, 5, 5);
 
